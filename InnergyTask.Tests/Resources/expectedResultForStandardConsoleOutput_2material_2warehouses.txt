@@ -1,0 +1,8 @@
+﻿warhouse2 (total 23)
+m1: 20
+m2: 3
+
+warhouse1 (total 12)
+m1: 10
+m2: 2
+
